@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  column-gap: 5vw;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.use-cases {
+  display: flex;
+}
+
+.column {
+  flex:50%
+}
