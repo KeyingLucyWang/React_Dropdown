@@ -2,11 +2,25 @@ I created the project using [Create React App](https://github.com/facebook/creat
 
 To run the app:
 
-(1) Install Node.js and npm
+(1) Git clone this repository to a local folder.
+
+(2) Install Node.js and npm.
 
 Instructions: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#checking-your-version-of-npm-and-nodejs
 
-In the project directory (my-app), run:
+(3) In a different folder, run:
+
+### `npx create-react-app my-app`
+
+(4) Delete all files in my-app/src.
+
+(5) Copy over all files in the cloned responsitory's src folder (React_Dropdown/src)
+
+(6) Navigate to the my-app folder:
+
+### `cd my-app`
+
+(7) Run:
 
 ### `npm start`
 
