@@ -14,7 +14,7 @@ Instructions: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#
 
 (4) Delete all files in my-app/src.
 
-(5) Copy over all files in the cloned responsitory's src folder (React_Dropdown/src)
+(5) Copy over all files in the cloned responsitory's src folder (React_Dropdown/src) into my-app/src 
 
 (6) Navigate to the my-app folder:
 
